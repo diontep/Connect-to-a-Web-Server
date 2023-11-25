@@ -7,9 +7,9 @@ In this lab we're going to observe how packets are sent across the Internet usin
 
 <h2>Environments Used </h2>
 
-- <b>Packet Tracer</b> (21H2)
+- <b>Packet Tracer</b> 
 
-<h2>Walk-through:</h2>
+<h2>Walkthrough:</h2>
 
 <p align="center">
 Part 1: Verify connectivity to the web server <br/>
